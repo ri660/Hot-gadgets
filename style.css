@@ -1,0 +1,100 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 2.5rem;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container-fluid {
+    width: 80%;
+}
+
+.slider-bg{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.container {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.row {
+    padding: 30px;
+}
+.col-md-7 {
+    padding: 80px 60px;
+}
+button.buy-now-button {
+    padding: 10px 12px;
+    border: none;
+    background: black;
+    color: white;
+    border-radius: 8px;
+}
+.container h3{
+    margin-top: 50px;
+}
+
+.text-warning {
+    color: #ffc107!important;
+    font-size: 20px;
+    font-weight: 400;
+}
+.card{
+    padding: 10px 10px;
+}
+
+.card-body {
+
+    text-align: center;
+}
+
+img.card-img-top {
+    padding: 25px;
+}
+
+p.card-text {
+    color: gray;
+    font-weight: 500;
+}
+
+h6 {
+    padding: 10px 0px;
+    font-size: 25px;
+}
+
+h4.d-flex.justify-content-center {
+    font-size: 30px;
+    padding-top: 70px;
+}
+
+.card.text-center {
+    margin-bottom: 30px;
+}
+
+
+.rightimg img {
+    width: 100%;
+}
+
+
+.br {
+    border-bottom-left-radius: 18%;
+    border-top-right-radius: 18%;
+}
+
+
+h4.d-flex.justify-content-center {
+
+    padding-bottom: 85px;
+   
+}
+
+
+
+.d-flex.justify-content-center.bg {
+    background: #9e9e9e91;
+    padding: 45px;
+    color: black;
+    font-weight: 500;
+}
